@@ -21,4 +21,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Sebou the best
+  target: "/sebou-the-best/"
+  kind: page
+  children: []
 
