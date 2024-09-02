@@ -1,6 +1,10 @@
 ---
 title: Main menu
 items:
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
 - title: Projects
   target: "/en/projects/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Sebou the best
   target: "/en/sebou-le-meilleur/"
-  kind: page
-  children: []
-- title: Posts
-  target: "/en/posts/"
   kind: page
   children: []
 
