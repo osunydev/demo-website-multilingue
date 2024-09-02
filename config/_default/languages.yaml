@@ -8,6 +8,8 @@ fr:
   languageName: Français
   params:
     social:
+      x: >-
+        @TwitterFR
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
